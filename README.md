@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## 去叨位
+
+結合Pixnet旅遊相關文章和Instagram打卡資訊，透過與chatbot的人機互動，根據您的目標及興趣偏好推薦個人化的在地旅遊行程。使用者可依據推薦行程再自行編輯調整行程順序。
+
+## Chatbot示意圖
 
 You can use the [editor on GitHub](https://github.com/ericahuang0516/pixhack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 在地旅遊行程示意圖
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

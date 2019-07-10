@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 在地旅遊行程示意圖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://github.com/ericahuang0516/pixhack/blob/master/img/pix_img.png?raw=true)
 
 ```markdown
 Syntax highlighted code block
@@ -18,7 +18,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+Markdown
 - Bulleted
 - List
 
